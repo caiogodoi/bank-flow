@@ -12,6 +12,7 @@ Following the challenge recommendation, it was used JavaScript and its framework
 - [Styled Components](https://styled-components.com/): it optimizes the styling experience for React components.
 - [React Native Svg](https://github.com/react-native-svg/react-native-svg): it enables to use svg in React native
 - [React Native Safe Area View Context](https://github.com/th3rdwave/react-native-safe-area-context): it create a safe area for notch phones
+- [Apsl React Native Button](https://github.com/APSL/react-native-button): easier to use intead of react native button
 
 ## Architecture
 
@@ -20,7 +21,6 @@ This project architecture was created in order to support its growth and keep it
 **Project Tree**
 
 ```
-├── .expo
 ├── .expo-shared
 ├── assets
 ├── node-modules
